@@ -10,7 +10,6 @@
 - Email: aresmeralda95@gmail.com
 - Personal Website: https://anthonyesmeralda.com
 - Linkedin: https://www.linkedin.com/in/anthony-esmeralda/
-- GitHub: https://github.com/aesmeral
 
 🛠️ Technical Skills
 
