@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   
   <br></br>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=aesmeral)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=aesmeral&theme=dracula&hide_longest_streak=true)](https://git.io/streak-stats)
 </div>
 
 <!--
