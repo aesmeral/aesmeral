@@ -25,9 +25,11 @@
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   
+  <br></br>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=aesmeral)](https://git.io/streak-stats)
+</div>
+
 <!--
-<br></br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aesmeral)](https://git.io/streak-stats)</div>
 **aesmeral/aesmeral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
